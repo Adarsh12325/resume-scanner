@@ -9,7 +9,7 @@ A Python tool that scans resumes and extracts relevant keywords to match job des
 
 📥 Installation
 1) Clone the Repository-->
-git clone https://github.com/YourUsername/Resume-Keyword-Scanner.git
+git clone https://github.com/Adarsh12325/Resume-Keyword-Scanner.git
 cd Resume-Keyword-Scanner
 
 2) Install Dependencies-->
