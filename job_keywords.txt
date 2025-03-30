@@ -1,0 +1,7 @@
+Python
+SQL
+Machine Learning
+Data Science
+Java
+Pandas
+Automation
